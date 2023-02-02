@@ -1,6 +1,7 @@
 # Arduino-IR-RC-Microlab-SOLO
-IR remote controll for Microlab SOLO (RC071)
-Speakers Microlab Solo 5C (5C\6C\7C)
+IR remote control for Microlab SOLO series speaker systems: Microlab Solo 5C (5C\6C\7C).
+
+Original remote **RC071**
 ```
 LSB first    MSB first
 Addr Comm    Addr Comm
