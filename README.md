@@ -11,8 +11,8 @@ Addr Comm |Addr Comm
 807F 906F | _____ F609 | TREBLE+
 807F B04F | _____ F20D | TREBLE-
 807F 50AF | _____ F50A | BASS+
-807F 708F | _____ F18E | BASS-
-807F 10EF | _____ F7E8 | RESET
+807F 708F | _____ F10E | BASS-
+807F 10EF | _____ F708 | RESET
 807F 20DF | _____ FB04 | INPUT
 807F 40BF | _____ FD02 | MUTE
  | | 
