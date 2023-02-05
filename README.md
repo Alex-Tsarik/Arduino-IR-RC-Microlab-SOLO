@@ -16,12 +16,12 @@ Addr Comm |Addr Comm
 807F 20DF | _____ FB04 | INPUT
 807F 40BF | _____ FD02 | MUTE
  | | 
-_d_i___d_i| _i_d___i_d
+_n_i___n_i| _i_n___i_n
 ```
 Addr - address
 Comm - command
 d - direct byte
-i - inverse byte
+n - normal byte
 ```
 
 Detail information in [Arduino-IRremote liblary Github](https://github.com/Arduino-IRremote/Arduino-IRremote)
